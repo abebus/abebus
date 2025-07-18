@@ -1,12 +1,6 @@
 ## About me
 
-I'm a Python web developer passionate about code performance and developer experience. While I work primarily with Python, I also explore Cython, C++, and Go.
-
-If something can be leaner or faster, I chase it.
-
-I value AI as a tool— like linters or LSPs— but I'm skeptical of AI agents and similar trends. 
-
-I build for humans, and I want to make code better for developers everywhere.
+Python developer passionate about code performance and developer experience.
 
 ## About me, to know me better
 <details>
