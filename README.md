@@ -1,8 +1,7 @@
-## About me
 
-Python developer passionate about code performance and developer experience.
 
-## About me, to know me better
+i write code
+
 <details>
     
 xmlcockgang
